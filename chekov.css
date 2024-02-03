@@ -1,0 +1,30 @@
+.speech{
+    font-size: 12px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.direction{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 14px;
+    color: black;
+    background-color: #EDFF21;
+}
+
+.direction:hover{
+    color: #3D642D;
+    background-color: #434B4D;
+}
+
+.trofimov{
+    color: #EDFF21;
+}
+.pischin{
+    color: #828282;
+}
+.lubov{
+    color: #E5BE01;
+}
+.charlotta{
+    color: #3B83BD;
+}
