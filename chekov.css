@@ -9,7 +9,7 @@ h1, h3{
     margin: 0 auto;
     width: 75%;
 }
-.play img{
+.play img, div table{
     margin: 0 30%;
     width: 400px;
     border-radius: 4px;
